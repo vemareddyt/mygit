@@ -1,0 +1,10 @@
+# Undoing the changes:
+undo/revert local changes from source area
+	$ git checkout -- LoginWeb.java
+
+Unstage the changes from STAGE area
+	$ git reset HEAD LoginWeb.java
+
+# Show all the files with content difference that are modified as part of a commit
+git show <SHA>
+git show b85a6e123
