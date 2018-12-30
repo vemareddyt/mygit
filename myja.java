@@ -1,4 +1,4 @@
-public class Prime {
+public class myja {
 
     public static void main(String[] args) {
 

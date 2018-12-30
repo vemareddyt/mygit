@@ -7,4 +7,7 @@ Unstage the changes from STAGE area
 
 # Show all the files with content difference that are modified as part of a commit
 git show <SHA>
-git show b85a6e123
+git show b85a6e12
+sdkbhl;;
+ndskl;dsj;
+3
